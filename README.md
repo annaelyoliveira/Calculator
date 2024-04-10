@@ -18,4 +18,5 @@ index.js: Arquivo JavaScript com a lógica da calculadora e a funcionalidade de 
 ![Captura de tela 2024-04-04 205110](https://github.com/annaelyoliveira/Social-links-responsive/assets/137449419/0d314f08-fd05-46d3-b9aa-9429aadca2b1)
 
 ## Demonstração
-https://github.com/annaelyoliveira/Social-links-responsive/assets/137449419/47ad1d42-ef5a-481d-9bbc-55d941005bd4
+https://github.com/annaelyoliveira/Calculator/assets/137449419/f0eb6fe2-c214-467d-930d-e24c914cf2e5
+
