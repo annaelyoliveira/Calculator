@@ -11,6 +11,9 @@ index.html: Arquivo HTML contendo a estrutura da calculadora.
 style.css: Arquivo CSS com estilos para a calculadora e os temas claro e escuro.
 index.js: Arquivo JavaScript com a lógica da calculadora e a funcionalidade de troca de tema.
 
+## Link para utilizar a calculadora (responsivo para celular)
+https://annaelyoliveira.github.io/Calculator/
+
 ## Tema Escuro 
 ![Captura de tela 2024-04-04 205056](https://github.com/annaelyoliveira/Social-links-responsive/assets/137449419/7ef84976-bddd-4430-b2e3-145d334a21b3)
 
